@@ -1,0 +1,18 @@
+name: ChatColors
+main: MulkiAqi192\ChatColors\Main
+author: MulkiAqi192
+api: 4.0.0
+version: 2.0
+
+commands:
+  ccolors:
+    description: "Change your Chat colors!"
+    permission: ccolors.use
+ 
+permissions: 
+  ccolors.use:
+    description: Change command usage
+ 
+
+
+
